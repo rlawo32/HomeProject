@@ -15,3 +15,5 @@ REST : Representational State Transfer
     3) 삽입	     /members	 POST
     4) 수정      /members	 PUT
     5) 삭제	     /members/1	 DELETE 
+
+5. ss
