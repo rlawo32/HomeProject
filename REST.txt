@@ -16,8 +16,5 @@ REST : Representational State Transfer
     4) 수정      /members	 PUT
     5) 삭제	     /members/1	 DELETE 
 
-<<<<<<< HEAD
-5. ss
-=======
-깃 테스트
->>>>>>> 2bb3f55e80b9a5e279df59e11d8be6355005f2ed
+깃 테스트 2
+
